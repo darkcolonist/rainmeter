@@ -13,3 +13,6 @@ inspired by perfgraph - https://www.majorgeeks.com/files/details/perfgraph.html
 - CPU/Graph.ini
 - RAM/Graph.ini
 - Network/Taskbar.ini
+
+## Additional
+- if you want the temperature to show in the CPU graph, install this https://www.alcpu.com/CoreTemp/
